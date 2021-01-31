@@ -92,7 +92,7 @@ p {
   font-weight: bold;
   letter-spacing: 1.6px;
   padding: 12px 36px;
-  margin: 0px 150px;
+  margin: 0px 5%;
   margin-top: 42px;
   transition: all 0.4s ease-in-out;
   text-transform: uppercase;
@@ -134,6 +134,17 @@ p {
 .section-title {
   position: relative;
   padding-bottom: 22px;
+}
+
+
+.section-title h4{
+  font-weight:400;
+  color: black;
+}
+
+.section-title p{
+  font-weight:400;
+  color: black;
 }
 
 #about,
@@ -185,7 +196,7 @@ footer {
 }
 
 .color-white {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .color-yellow {
@@ -198,7 +209,7 @@ footer {
 }
 
 .bg-white {
-  background: #ffffff;
+  background:#3b281f;
   height: 350px;
 }
 
