@@ -527,8 +527,6 @@ a:hover, a:active, a:focus {
   font-weight: bold;
 }
 
-
-
 /*---------------------------------------
    Quotes section              
 -----------------------------------------*/
@@ -577,12 +575,12 @@ a:hover, a:active, a:focus {
 #contact .contact-form,
 #contact .contact-thumb {
   padding: 22px 32px 22px 32px;
-  min-height: 75vh;
+  min-height: 40vh;
 }
 
 #contact .contact-img {
   background: url('../images/contact-img.jpg') no-repeat;
-  min-height: 75vh;
+  min-height: 40vh;
 }
 
 #contact .contact-info {
@@ -633,7 +631,10 @@ a:hover, a:active, a:focus {
   padding-right: 10px;
 }
 
-
+.arrow{
+  width: 20%;
+  height: auto;
+}
 
 
 /*---------------------------------------
