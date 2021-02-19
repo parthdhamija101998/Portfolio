@@ -611,9 +611,6 @@ a:hover, a:active, a:focus {
   border-bottom-color: #ffffff;
 }
 
-#contact input {
-  height: 45px;
-}
 
 #contact input[type="submit"] {
   background: #ffffff;
